@@ -1,0 +1,16 @@
+# Build output
+build/
+Payload/
+*.ipa
+MusicPlayer.xcodeproj/
+*.xcworkspace/
+DerivedData/
+
+# Large music package (never commit; transfer it separately)
+muzik.pak
+muzik.setup.pak
+*.pak
+
+# OS junk
+.DS_Store
+Thumbs.db
